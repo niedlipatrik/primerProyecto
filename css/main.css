@@ -46,6 +46,15 @@ a:hover{
 
 
 }
+
+.container-topo span{
+    color: rgb(182, 182, 182);
+    text-align: left;
+   
+}
+
+
+
 .container-topo h1{
     padding: 10px;
     font-family: 'Russo One', sans-serif;

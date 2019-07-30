@@ -52,7 +52,7 @@ function mostrarImagen(Imagen) {
     }     
 
 const final=document.createElement('div')
- final.innerHTML=`Ok. Rompiste el monitor.¿Estás feliz ahora?<br><br> <strong><b>ABANDONAR</b> no te lleva a ningún lado y todavía te hace <b>perder oportunidades</b>. <br> Te daré una oportunidad más para elegir la opción <b>CORRECTA</b> <br> haga clic en:<br> <a href="http://127.0.0.1:5500/">INTENTAR NUEVAMENTE</a></strong>`;
+ final.innerHTML=`Ok. Rompiste el monitor.¿Estás feliz ahora?<br><br> <strong><b>ABANDONAR</b> no te lleva a ningún lado y todavía te hace <b>perder oportunidades</b>. <br> Te daré una oportunidad más para elegir la opción <b>CORRECTA</b> <br> haga clic en:<br> <a href=https://niedlipatrik.com/primerproyecto/index.html">INTENTAR NUEVAMENTE</a></strong>`;
 
  modal.appendChild(final)
 };
@@ -78,7 +78,7 @@ const final=document.createElement('div')
       final.innerHTML=`<h2>Felicidades !!!</h2>
      No es el mejor de los códigos, pero es una señal de que lo estás intentando. 😊<br>
      <strong>Tus maestros, amigos y programadores te darán varios consejos.<br>
-     Estoy seguro de que para el final del curso este código será mucho mejor.</strong><br> <a href="http://127.0.0.1:5500/">VUELVE</a></strong>`
+     Estoy seguro de que para el final del curso este código será mucho mejor.</strong><br> <a href="https://niedlipatrik.com/primerproyecto/index.html">VUELVE</a></strong>`
      modal.appendChild(final);
     
  
